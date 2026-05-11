@@ -1,6 +1,6 @@
 # Yare Write-Up
 
-*If you are looking for a project called Chronicle - this is that. Not to be confused with the Chronicle memory system in Codex. Note to future self, when you ask an LLM for random name so you can make the repository, check it hasn't just taken a name from a package from one of the biggest companies in the world that you didn't know existed because it's not available in your region....*
+*If you are looking for a project called Chronicle - this is that. Not to be confused with the Chronicle memory system in Codex. Note to future self, when you ask an LLM for random name so you can make the repository, check it hasn't just taken a name from a package from one of the biggest companies in the world that you didn't know existed because the package is not available in your region....*
 
 ## Start Here
 
